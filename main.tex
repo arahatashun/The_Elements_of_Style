@@ -1,0 +1,41 @@
+\documentclass[dvipdfmx,a4paper]{jsreport}
+\usepackage[utf8]{inputenc}
+\usepackage{bm}
+\usepackage{enumitem}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{pxjahyper}
+% set up for hyperref
+\hypersetup{%
+    breaklinks = true,
+	bookmarksnumbered = true,%
+	hidelinks,%
+	colorlinks = true,%
+	linkcolor = black,%
+	urlcolor = cyan,%
+	citecolor = black,%
+	filecolor = magenta,%
+	setpagesize = false,%
+	}
+
+\pdfstringdefDisableCommands{%
+\renewcommand*{\bm}[1]{#1}%
+% any other necessary redefinitions
+}
+
+
+\title{The Elements of Style}
+\author{William Strunk, Jr. \\
+森田尚 訳\\Japanese translation by Hisashi MORITA, 2005.\\ This Japanese translation is in public domain; \\it is provided on an as-is basis and the translator disclaims any responsibility.\\ Use it at your own risk.\\
+訳を一部改変}
+\begin{document}
+\maketitle
+\tableofcontents
+\input{chapter1}
+\input{chapter2}
+\input{chapter3}
+\input{chapter4}
+\input{chapter5}
+\input{chapter6}
+\end{document}
