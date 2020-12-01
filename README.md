@@ -1181,7 +1181,7 @@ Parentheses（括弧）
 >
 > （彼が宣言したことには（そして我々が彼の善き信仰を疑うことなどあろうか？）彼は今や自分自身の成功を確信している
 
-    （完全に分離した表現や文が括弧で囲まれている場合、最後の句読点は最後の括弧記号の前にくる。）
+（完全に分離した表現や文が括弧で囲まれている場合、最後の句読点は最後の括弧記号の前にくる。）
 
 Quotations（引用）
 
@@ -1192,7 +1192,7 @@ Quotations（引用）
 >
 > （憲法にはこう定められている：「どの州から輸出される物品にも、租税や関税を課してはならない。」
 
-    文法上同格である引用文や、動詞の直接目的語である引用文は、直前にカンマが来て引用符で囲まれる。
+文法上同格である引用文や、動詞の直接目的語である引用文は、直前にカンマが来て引用符で囲まれる。
 
 > I recall the maxim of La Rochefoucauld, “Gratitude is a lively
 > sense of benefits to come.”
@@ -1204,7 +1204,7 @@ Quotations（引用）
 >
 > （アリストテレスは「芸術は自然の模倣である」と言った。）
 
-    詩句の1行丸ごとかそれ以上の引用は、新しい行でセンタリングして始めるが、引用符で囲むことはしない。
+詩句の1行丸ごとかそれ以上の引用は、新しい行でセンタリングして始めるが、引用符で囲むことはしない。
 
 > Wordsworth’s enthusiasm for the Revolution was at first unbounded:
 >
@@ -1218,13 +1218,13 @@ Quotations（引用）
 >
 > （長く生きることはこの上ない幸せ！）
 
-    thatによって導入された引用は、間接話法の中にある状態と同様にみなされ、引用符で囲まれない。
+thatによって導入された引用は、間接話法の中にある状態と同様にみなされ、引用符で囲まれない。
 
 > Keats declares that beauty is truth, truth beauty.
 >
 > （美は真なり、真は美とキーツは言い切っている）
 
-    諺などでよく知られた表現および文学に由来する身近なフレーズは、引用符を必要としない。
+諺などでよく知られた表現および文学に由来する身近なフレーズは、引用符を必要としない。
 
 > These are the times that try men’s souls.
 >
@@ -1236,7 +1236,7 @@ Quotations（引用）
 > （群集からはるかに離れて彼は生きる（訳注：Thomas Hardy, “Far From
 > the Madding Crowd”, 1874））
 
-    口語と卑語・俗語についても同様のことがいえる。
+口語と卑語・俗語についても同様のことがいえる。
 
 References（リファレンス、参考文献）
 
@@ -1323,8 +1323,7 @@ Case（ケース）
 >
 > Few mistakes have been made.（間違いはほとんどなかった）
 
-    Wood, Suggestions to Authors, pp. 68-71, およびQuiller-Couch, The
-    Art of Writing, pp. 103-106を参照。
+Wood, Suggestions to Authors, pp. 68-71, およびQuiller-Couch, The　Art of Writing, pp. 103-106を参照。
 
 Certainly（確かに）
 
