@@ -1,4 +1,4 @@
-# The_Elements_of_Style (William Strunk, Jr.)
+# The Elements of Style (William Strunk, Jr.) 日本語　PDF
 [森田尚氏による翻訳](http://www.kt.rim.or.jp/~hisashim/elementsofstyle/)を基にLaTeXに打ち直したもの
 
 [PDF download](https://github.com/arahatashun/The_Elements_of_Style/wiki/pdf/The_Elements_of_Style_version2.pdf)
