@@ -381,14 +381,14 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
 書き手の目的によっては、上記のように、書き手はパラグラフの本文をいくつか異なったやり方でトピックセンテンスに関連付けてもよい。書き手は、トピックセンテンスの意味をより明確にするために、それを別の形で再度述べたり、用語を定義したり、逆説を棄却したり、例証したり特定の実例を挙げたりしてもよい；証拠によって立証してもよい；あるいはそれが持つ意味合いと重要性を示して論を展開してもよい。長いパラグラフでは、これらの方法のうちいくつかを実行してもよい。
 
-1.  Now, to be properly enjoyed, a walking tour should be gone upon
+1.  > Now, to be properly enjoyed, a walking tour should be gone upon
     > alone.
     >
     > （さて、正しく楽しむためには、徒歩旅行は一人で行かねばならない。）
 
     トピックセンテンス。
 
-2.  If you go in a company, or even in pairs, it is no longer a walking
+2.  > If you go in a company, or even in pairs, it is no longer a walking
     > tour in anything but name; it is something else and more in the
     > nature of a picnic.
     >
@@ -396,7 +396,7 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     逆の説を否定することで、意味がより明確になった。
 
-3.  A walking tour should be gone upon alone, because freedom is of the
+3.  > A walking tour should be gone upon alone, because freedom is of the
     > essence; because you should be able to stop and go on, and follow
     > this way or that, as the freak takes you; and because you must
     > have your own pace, and neither trot alongside a champion walker,
@@ -406,24 +406,24 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     トピックセンテンスが手短に繰り返され、3つの理由で支持されている；3番目の理由（自分自身のペースを持たねばならない）の意味は、逆説を否定することにより、いっそう明らかになっている。
 
-4.  And you must be open to all impressions and let your thoughts take
+4.  > And you must be open to all impressions and let your thoughts take
     > colour from what you see.
     >
     > （そしてあなたはすべての心象に対して自分を開放し、あなたの思考が目に見えるものから生彩を感じ取るように仕向けなければならない。）
 
     4番目の理由が2つの形で示されている。
 
-5.  You should be as a pipe for any wind to play upon
+5.  > You should be as a pipe for any wind to play upon
     >
     > （あなたはどんな風にも応えて鳴る笛のようでなければならない。）
 
     同じ理由が、また別の形で示されている。
 
-6.  “I cannot see the wit,” says Hazlitt, “of walking and talking at the
+6.  > “I cannot see the wit,” says Hazlitt, “of walking and talking at the
     > same time.
     > （”そんなことをして何がいいのか私には分からないよ、“とHazlittは言った,”歩きながら話をするなんて。）
 
-7.  When I am in the country, I wish to vegetate like the country,"
+7.  > When I am in the country, I wish to vegetate like the country,"
     > which is the gist of all that can be said upon the matter.
     >
     > （田舎にいるときは、私は田舎らしくゆっくりと時間を過ごしたいね、"
@@ -431,13 +431,13 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     6-7 Hazlittが述べたのと同じ理由。
 
-8.  There should be no cackle of voices at your elbow, to jar on the
+8.  > There should be no cackle of voices at your elbow, to jar on the
     > meditative silence of the morning.
     > （あなたは、瞑想に誘う朝の静けさを台無しにするようなおしゃべりをしてはいけない。）
 
     Hazlittからの引用を、パラフレーズ（分かりやすくするための言い替え）で繰り返している。
 
-9.  And so long as a man is reasoning he cannot surrender himself to
+9.  > And so long as a man is reasoning he cannot surrender himself to
     > that fine intoxication that comes of much motion in the open air,
     > that begins in a sort of dazzle and sluggishness of the brain, and
     > ends in a peace that passes comprehension.— Stevenson, Walking
@@ -450,13 +450,13 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
 <!-- -->
 
-1.  It was chiefly in the eighteenth century that a very different
+1.  > It was chiefly in the eighteenth century that a very different
     > conception of history grew up.
     > （歴史に関する非常に特異な考え方が発達したのは主に18世紀においてだった。）
 
     トピックセンテンス。
 
-2.  Historians then came to believe that their task was not so much to
+2.  > Historians then came to believe that their task was not so much to
     > paint a picture as to solve a problem; to explain or illustrate
     > the successive phases of national growth, prosperity, and
     > adversity.
@@ -465,7 +465,7 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     トピックセンテンスの意味がより明らかになっている；歴史の新しい考え方が定義されている。
 
-3.  The history of morals, of industry, of intellect, and of art; the
+3.  > The history of morals, of industry, of intellect, and of art; the
     > changes that take place in manners or beliefs; the dominant ideas
     > that prevailed in successive periods; the rise, fall, and
     > modification of political constitutions; in a word, all the
@@ -476,7 +476,7 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     定義が発展している。
 
-4.  They sought rather to write a history of peoples than a history of
+4.  > They sought rather to write a history of peoples than a history of
     > kings.
     >
     > （彼らは王たちの歴史を書くよりは、むしろ人々の歴史を書こうと努めた。）
@@ -490,7 +490,7 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     定義が補足されている：歴史の新しい考え方における、また別の要素。
 
-6.  They undertook to study in the past the physiology of nations, and
+6.  > They undertook to study in the past the physiology of nations, and
     > hoped by applying the experimental method on a large scale to
     > deduce some lessons of real value about the conditions on which
     > the welfare of society mainly depend. — Lecky, The Political Value
