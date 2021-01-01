@@ -1,5 +1,6 @@
 # The Elements of Style (William Strunk, Jr.) 日本語　PDF
-[森田尚氏による翻訳](http://www.kt.rim.or.jp/~hisashim/elementsofstyle/)を基にLaTeXに打ち直したもの
+第1版の[森田尚氏による翻訳](http://www.kt.rim.or.jp/~hisashim/elementsofstyle/)を基にLaTeXに打ち直したもの．
+第3版は荒竹三郎氏による訳書，[英語文章ルールブック](https://www.amazon.co.jp/dp/4870430126/ref=cm_sw_r_tw_dp_x_2LV7FbPM28P2B)が存在するが，絶版しており，2021年で5000円ほどの価格．
 
 [PDF download](https://github.com/arahatashun/The_Elements_of_Style/wiki/pdf/The_Elements_of_Style_version2.pdf)
 
