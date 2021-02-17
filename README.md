@@ -2014,7 +2014,7 @@ Would（だったろう）
     timeは2語に分けて書くこと（ただしformerly（以前は）という意味の場合を除く）。
 
 
-# The Elements of Style に載っていない個人的に勉強になったも
+# The Elements of Style に載っていない個人的に勉強になったもの
 ## EspeciallyとIn particularの使い分け（科学論文の英語用法百科＜第一編＞から）
 Especiallyは程度に関して比較を行うが，n particularは議論の焦点を合わせるために用いられる．
 >It has been windy all week, but today is especially windy.
