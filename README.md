@@ -506,7 +506,7 @@ reason）があれば済んでしまうことがある。しかしながらあ�
 
     定義が対比によって説明されている。
 
-5.  They looked especially in history for the chain of causes and
+5.  > They looked especially in history for the chain of causes and
     > effects.
     >
     > （彼らは特に歴史の中に、因果関係の鎖を探し求めた。）
