@@ -2027,7 +2027,7 @@ Should は正しいと考えていることについて用いる
 have to は必要・義務と考えていることに用いる
 > Do young men have to do military service in your country?
 
-must to は、動詞の主体が人でない時もしくは動詞が受動態であるときに必要・義務と考えていることに用いる
+must は、動詞の主体が人でない時もしくは動詞が受動態であるときに必要・義務と考えていることに用いる
 > All applications must be received by tomorrow.
 
 
