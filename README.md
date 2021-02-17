@@ -2012,3 +2012,18 @@ Would（だったろう）
 
 -   any one, every one, some one, some
     timeは2語に分けて書くこと（ただしformerly（以前は）という意味の場合を除く）。
+
+
+# The Elements of Style には載っていなかったが個人的に勉強になったもの
+## modalの使い分け (Common Mistakes at Proficiencyから)
+Should は正しいと考えていることについて用いる
+> I don't think people should keep big dogs in small apartments.
+
+have to は必要・義務と考えていることに用いる
+> Do young men have to do military service in your country?
+
+must to は、動詞の主体が人でない時もしくは動詞が受動態であるときに必要・義務と考えていることに用いる
+> All applications must be received by tomorrow.
+
+
+
