@@ -2014,7 +2014,11 @@ Would（だったろう）
     timeは2語に分けて書くこと（ただしformerly（以前は）という意味の場合を除く）。
 
 
-# The Elements of Style には載っていなかったが個人的に勉強になったもの
+# The Elements of Style に載っていない個人的に勉強になったも
+## EspeciallyとIn particularの使い分け（科学論文の英語用法百科＜第一編＞から）
+Especiallyは程度に関して比較を行うが，n particularは議論の焦点を合わせるために用いられる．
+>It has been windy all week, but today is especially windy.
+>Each day this week I go to an interesting city. In particular, tomorrow I go to Bangkok.
 ## modalの使い分け (Common Mistakes at Proficiencyから)
 Should は正しいと考えていることについて用いる
 > I don't think people should keep big dogs in small apartments.
