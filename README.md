@@ -2021,13 +2021,13 @@ Especiallyは程度に関して比較を行うが，in particularは議論の焦
 
 >Each day this week I go to an interesting city. In particular, tomorrow I go to Bangkok.
 ## modalの使い分け (Common Mistakes at Proficiencyから)
-Should は正しいと考えていることについて用いる
+Shouldは正しいと考えていることについて用いる
 > I don't think people should keep big dogs in small apartments.
 
-have to は必要・義務と考えていることに用いる
+have toは必要・義務と考えていることに用いる
 > Do young men have to do military service in your country?
 
-must は、動詞の主体が人でない時もしくは動詞が受動態であるときに必要・義務と考えていることに用いる
+mustは、動詞の主体が人でない時もしくは動詞が受動態であるときに必要・義務と考えていることに用いる
 > All applications must be received by tomorrow.
 
 
